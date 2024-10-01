@@ -13,8 +13,8 @@ This project creates a modern and responsive website for a restaurant. It showca
 ## Files
 
 * `index.html`:  Main HTML structure of the website.
-* `style.css`:  CSS styles for the website's appearance.
-* `script.js`:  JavaScript for interactive elements (optional).
+* `style/`:  CSS styles for the website's appearance.
+* `js/`:  JavaScript for interactive elements (optional).
 * `images/`: Folder containing images used on the website.
 
 ## Getting Started
